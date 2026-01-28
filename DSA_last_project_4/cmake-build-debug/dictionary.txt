@@ -1,0 +1,33 @@
+airport,A place where airplanes take off and land
+app,A software application
+Apple,A sweet fruit that grows on trees
+bag,a thing to carry things
+bank,A place where money is kept safely
+bike,a thing for traveling
+book,collection of different pages
+Clock,A device that shows time
+Computer, An electronic device for work and games
+doctor,A person who treats sick people
+dog,a loyal and friendly animal and it use for keep as a pet
+elephant,A very large animal with a trunk
+garden,A place where plants are grown
+House,A building where people live
+Internet,A network that connects computers worldwide
+juice, Liquid from fruits or vegetables
+key,A small metal object to open locks
+Light,What makes things visible, brightness
+Money,What people use to buy things
+Night,The dark time between sunset and sunrise
+orange,a juicy fruit
+pakistan,country
+pen,A tool used for writing with ink
+queen,A female ruler of a country
+river, A large natural stream of water
+school,a great learning place for beginners
+teacher,A person who helps students learn
+Umbrella,Something that protects from rain or sun
+Water ,A clear liquid for drinking
+waterfall,Water falling from height
+Xylophone,A musical instrument with wooden bars
+Yellow ,The color of lemons and sunflowers
+zoo,A place where animals are kept for display
